@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-backup",
+    "name": "dees040/laravel-backup",
     "description": "A Laravel 5 package to backup your application",
     "keywords": [
         "spatie",
